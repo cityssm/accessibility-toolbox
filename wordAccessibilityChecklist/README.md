@@ -20,3 +20,9 @@ Built into Microsoft Word (and other Office applications), the Accessibility Che
 scans for (and helps to correct) accessibility issues in your documents.
 
 [Learn more about the Accessibility Checker](https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+
+## Additional Resources
+
+[**Government of Canada - Accessible Word documents in Office 2016**]<br />
+Best practices identified by the Government of Canada for creating
+accessible Word documents.

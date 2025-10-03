@@ -55,3 +55,9 @@ combinations and simulate what they may look like for users with
 different types of colour blindness.
 
 💡 Keep in mind text that appears over images or multicolour backgrounds.
+
+## Additional Resources
+
+[**Government of Canada - How to create accessible documents on Office 2016**]<br />
+While the focus is on the Microsoft Office suite of applications,
+this article contains good advice for documents in general.

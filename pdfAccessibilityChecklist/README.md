@@ -78,5 +78,8 @@ and [PAVE](https://pave-pdf.org/index.html) is a free PDF remediation tool.
 
 ## Additional Resources
 
-[**Creating Accessible PDFs**](https://helpx.adobe.com/ca/acrobat/using/creating-accessible-pdfs.html)<br />
+[**Adobe - Creating Accessible PDFs**](https://helpx.adobe.com/ca/acrobat/using/creating-accessible-pdfs.html)<br />
 Tips and tricks to making accessible PDFs from Adobe.
+
+[**Government of Canada - PDF Accessibility Checklist**](https://a11y.canada.ca/en/pdf-accessibility-checklist/)<br />
+The checklist used by the Government of Canada to build accessible PDFs.

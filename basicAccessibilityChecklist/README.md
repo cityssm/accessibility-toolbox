@@ -24,7 +24,7 @@ to assistive technologies.
 
 - Use plain language.
 - When using abbreviations and acronyms, always define them on first use.
-- Ensure images have enough quality to appear blurry or pixelated.
+- Ensure images have enough quality to not appear blurry or pixelated.
 - Ensure information isn't conveyed by colour alone.
 
 ## ✅ Label figures and images with alternative text

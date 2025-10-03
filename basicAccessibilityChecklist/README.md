@@ -53,3 +53,5 @@ colour contrast exists between foreground and background colours.
 A tool like [Who Can Use](https://www.whocanuse.com) can help test
 combinations and simulate what they may look like for users with
 different types of colour blindness.
+
+💡 Keep in mind text that appears over images or multicolour backgrounds.

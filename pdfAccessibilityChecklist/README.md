@@ -4,7 +4,7 @@
 
 **Under development. More checks coming.**
 
-## ✅ Ensure "Dcoument Properties" are set
+## ✅ Ensure "Document Properties" are set
 
 💡 Some of these options may only be available in Acrobat Pro.
 
@@ -28,3 +28,4 @@ where the document came from.
 
 Under the **Advanced** tab, consider setting the **PDF/UA Compliance**.
 Set the **Language** for the document.
+

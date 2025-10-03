@@ -6,6 +6,8 @@
 
 Lists of things to check before sharing documents publically.
 
+✅ [**Basic Accessibility Checklist**](./basicAccessibilityChecklist/README.md)
+
 ✅ [**PDF Accessibility Checklist**](./pdfAccessibilityChecklist/README.md)
 
 ✅ [**Microsoft Word Accessibility Checklist**](./wordAccessibilityChecklist/README.md)

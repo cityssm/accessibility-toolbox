@@ -58,6 +58,6 @@ different types of colour blindness.
 
 ## Additional Resources
 
-[**Government of Canada - How to create accessible documents on Office 2016**]<br />
+[**Government of Canada - How to create accessible documents on Office 365**](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/)<br />
 While the focus is on the Microsoft Office suite of applications,
 this article contains good advice for documents in general.

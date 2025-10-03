@@ -23,6 +23,6 @@ scans for (and helps to correct) accessibility issues in your documents.
 
 ## Additional Resources
 
-[**Government of Canada - Accessible Word documents in Office 2016**](https://a11y.canada.ca/en/accessible-word-documents-in-office-2016/)<br />
+[**Government of Canada - Accessible Word documents in Office 365**](https://a11y.canada.ca/en/accessible-word-documents-in-microsoft-365/)<br />
 Best practices identified by the Government of Canada for creating
 accessible Word documents.

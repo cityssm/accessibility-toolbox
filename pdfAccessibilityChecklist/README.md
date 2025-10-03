@@ -22,10 +22,10 @@ then scanning with an office copier.
 
 💡 Some of these options may only be available in Acrobat Pro.
 
-Depending on how your document was created, it may or may not include a document title.
-It may not have a language set. It may disable accessibility features.
-All of these properties act behind the scenes to help assistive technologies,
-like screen readers, do their jobs.
+Depending on how your document was created, it may or may not include
+a document title. It may not have a language set. It may disable
+accessibility features. All of these properties act behind the scenes to
+help assistive technologies, like screen readers, do their jobs.
 
 ![Adobe Acrobat File Menu](./acrobatPropertiesMenu.png)
 

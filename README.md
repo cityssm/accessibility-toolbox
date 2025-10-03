@@ -16,7 +16,8 @@ Lists of things to check before sharing documents publically.
 
 ### Cloud-Based Tools
 
-⭐ [**PAVE - PDF Accessibility Validation Engine**](https://pave-pdf.org/index.html)<br />
+⭐ [**PAVE - PDF Accessibility Validation Engine**](https://pave-pdf.org/index.html)
+<br />
 A web application that identifies issues with PDF documents and _helps fix them_!
 
 [**Who Can Use**](https://www.whocanuse.com/)<br />

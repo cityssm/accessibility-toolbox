@@ -28,7 +28,7 @@ and publications are perceived by readers with visual impairments like colour bl
 
 💡 You may require assistance from IT to install applications on your machine.
 
-⭐ [**PDF Accessibility Checker**](https://pac.pdf-accessibility.org/en)<br />
+⭐ [**PDF Accessibility Checker (PAC)**](https://pac.pdf-accessibility.org/en)<br />
 A free tool to evalulate PDF files, and report on any identified accessibility issues.
 
 ## Courses

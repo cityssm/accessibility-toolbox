@@ -76,10 +76,20 @@ Most of the results allow for quick fixes.
 [PAC](https://pac.pdf-accessibility.org/en) is a free PDF accessibilty checker,
 and [PAVE](https://pave-pdf.org/index.html) is a free PDF remediation tool.
 
-## Additional Resources
+## Additional Checklists
 
-[**Adobe - Creating Accessible PDFs**](https://helpx.adobe.com/ca/acrobat/using/creating-accessible-pdfs.html)<br />
-Tips and tricks to making accessible PDFs from Adobe.
+[**City of Peterborough - Accessible PDF Compliance Checklist**]<br />
+An alternative PDF accessibility checklist that relies on PAC
+to ensure PDFs are accessible.
 
 [**Government of Canada - PDF Accessibility Checklist**](https://a11y.canada.ca/en/pdf-accessibility-checklist/)<br />
 The checklist used by the Government of Canada to build accessible PDFs.
+
+## Additional Resources
+
+[**City of Peterborough - Creating Accessible PDFs**](https://peterboroughcourses.esolg.ca/en/accessibilitycourses/IAS105E/index.html#/)<br />
+An fully interactive course that guides you though the process of
+using Acrobat Pro to create accessible PDFs.
+
+[**Adobe - Creating Accessible PDFs**](https://helpx.adobe.com/ca/acrobat/using/creating-accessible-pdfs.html)<br />
+Tips and tricks to making accessible PDFs from Adobe.

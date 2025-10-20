@@ -58,6 +58,9 @@ different types of colour blindness.
 
 ## Additional Resources
 
+[**City of Peterborough - Intro to Accessible Documents**](https://peterboroughcourses.esolg.ca/en/accessibilitycourses/IAS105/index.html#/)<br />
+A full course that discusses the key concepts of creating accessible documents.
+
 [**Government of Canada - How to create accessible documents on Office 365**](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/)<br />
 While the focus is on the Microsoft Office suite of applications,
 this article contains good advice for documents in general.

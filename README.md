@@ -31,6 +31,15 @@ and publications are perceived by readers with visual impairments like colour bl
 ⭐ [**PDF Accessibility Checker**](https://pac.pdf-accessibility.org/en)<br />
 A free tool to evalulate PDF files, and report on any identified accessibility issues.
 
+## Courses
+
+[**City of Peterborough - Intro to Accessible Documents**](https://peterboroughcourses.esolg.ca/en/accessibilitycourses/IAS105/index.html#/)<br />
+A full course that discusses the key concepts of creating accessible documents.
+
+[**City of Peterborough - Creating Accessible PDFs**](https://peterboroughcourses.esolg.ca/en/accessibilitycourses/IAS105E/index.html#/)<br />
+An fully interactive course that guides you though the process of
+using Acrobat Pro to create accessible PDFs.
+
 ## Workshops
 
 Hands on activities to polish your accessibility skills!

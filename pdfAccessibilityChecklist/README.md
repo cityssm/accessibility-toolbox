@@ -78,7 +78,7 @@ and [PAVE](https://pave-pdf.org/index.html) is a free PDF remediation tool.
 
 ## Additional Checklists
 
-[**City of Peterborough - Accessible PDF Compliance Checklist**]<br />
+[**City of Peterborough - Accessible PDF Compliance Checklist**](https://peterboroughcourses.esolg.ca/en/accessibilitycourses/IAS105F/index.html#/)<br />
 An alternative PDF accessibility checklist that relies on PAC
 to ensure PDFs are accessible.
 
